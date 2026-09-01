@@ -100,16 +100,6 @@ npm run preview
 
 ---
 
-## 🌐 Free Hosting & Deployment (ওয়েবসাইট পাবলিশ করার নিয়ম)
-
-This application is built as a static client-side Single Page Application (SPA). You can deploy it completely **FREE** with **unlimited visitors** on any of these platforms:
-
-- **[Vercel](https://vercel.com/):** Import the repository and deploy with 1-click.
-- **[GitHub Pages](https://pages.github.com/):** Build with `npm run build` and deploy the `dist/` folder.
-- **[Netlify](https://www.netlify.com/):** Drag & drop the `dist/` folder or link with GitHub.
-- **[Cloud Run / Firebase Hosting](https://firebase.google.com/):** Connect and host globally with high speed.
-
----
 
 ## 📜 License
 
