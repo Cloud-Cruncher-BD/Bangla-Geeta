@@ -1,0 +1,6 @@
+{
+  "name": "শ্রীমদ্ভগবদ্গীতা (Srimad Bhagavad Gita)",
+  "description": "শ্রীমদ্ভগবদ্গীতার ১৮টি অধ্যায়, প্রতিটি শ্লোকের সংস্কৃত রূপ, বাংলা উচ্চারণ, অনুবাদ ও বিশদ মর্মার্থ সহ পাঠের প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
